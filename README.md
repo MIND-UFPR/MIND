@@ -1,7 +1,9 @@
 # **MIND - Soluções Empresariais com IA**   
 
 ## **📌 Sobre o Projeto**  
-O **MIND** é um grupo de estudos e futura startup focada em **Machine Learning** e **Deep Learning**, criado por estudantes apaixonados por inteligência artificial. Nosso objetivo é desenvolver soluções inovadoras para otimização de processos, análise preditiva e automação empresarial.  
+Nosso grande objetivo com a MIND é redefinir o conceito de excelência e inovação dentro da UFPR. Em um ano, queremos nos tornar uma referência, construindo um legado de profissionalismo, cultura inovadora e capacitação de ponta em Machine Learning e Análise de Dados. Nosso propósito é formar profissionais altamente qualificados para o mercado, proporcionando aos estudantes uma compreensão profunda dos processos empresariais, desde o desenvolvimento de projetos e prospecção até a gestão de equipes, sempre com foco em tecnologia avançada e soluções baseadas em dados.
+
+Inicialmente, nossa meta principal é consolidar a MIND como um grupo de estudos de referência dentro da UFPR. No futuro, almejamos dar o próximo passo e transformar a MIND em uma startup.  
 
 ---
 
