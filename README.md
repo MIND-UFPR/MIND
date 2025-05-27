@@ -1,13 +1,5 @@
 # **MIND - Soluções Empresariais com IA**   
 
-<div align="center">  
-
-[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)  
-[![Deep Learning](https://img.shields.io/badge/Deep%20Learning-0F9D58?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)  
-[![AI Solutions](https://img.shields.io/badge/AI%20Solutions-4285F4?style=for-the-badge&logo=google-ai&logoColor=white)](https://ai.google/)  
-
-</div>  
-
 ## **📌 Sobre o Projeto**  
 O **MIND** é um grupo de estudos e futura startup focada em **Machine Learning** e **Deep Learning**, criado por estudantes apaixonados por inteligência artificial. Nosso objetivo é desenvolver soluções inovadoras para otimização de processos, análise preditiva e automação empresarial.  
 
