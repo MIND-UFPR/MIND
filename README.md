@@ -5,7 +5,7 @@ O **MIND** é um grupo de estudos e futura startup focada em **Machine Learning*
 
 ---
 
-## **👥 Integrantes (Ordem Alfabética)**  
+## **👥 Integrantes**  
 
 | Nome                     | GitHub (ou LinkedIn) |  
 |--------------------------|----------------------|  
