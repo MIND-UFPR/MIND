@@ -1,4 +1,4 @@
-# **MIND** 🤖🧠  
+# **MIND - Soluções Empresariais com IA**   
 
 <div align="center">  
 
