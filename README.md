@@ -12,7 +12,7 @@ Inicialmente, nossa meta principal é consolidar a MIND como um grupo de estudos
 | Nome                     | GitHub (ou LinkedIn) |  
 |--------------------------|----------------------|  
 | **Antônio da Ressureição** | [@seuuser](https://github.com/) |  
-| **Matheus Gastal**        | [@seuuser](https://github.com/) |  
+| **Matheus Gastal**        | [@matheusgastal](https://github.com/) |  
 | **Pietro Comin**          | [@pietrocomin](https://github.com/pietrocomin) |  
 | **Roberto Tomchak**       | [@seuuser](https://github.com/) |  
 
