@@ -1,4 +1,6 @@
-# **MIND - Soluções Empresariais com IA**   
+<div align="center">
+  <h1>MIND - Soluções Empresariais com IA</h1>
+</div>
 
 ## **📌 Sobre o Projeto**  
 Nosso objetivo com a **MIND** é redefinir excelência e inovação na UFPR. Em um ano, queremos ser referência, construindo um legado de profissionalismo, inovação e capacitação em Machine Learning e Análise de Dados. Nosso foco é formar profissionais qualificados, oferecendo aos estudantes conhecimento prático dos processos empresariais, do desenvolvimento de projetos à gestão de equipes, sempre usando tecnologia avançada e soluções baseadas em dados.
